@@ -16,7 +16,7 @@
                         <span class="mui-icon iconfont icon-socialangular">
                             <!--<span class="mui-badge">5</span>-->
                         </span>
-                        <div class="mui-media-body">Angualr</div>
+                        <div class="mui-media-body">Angular</div>
                     </router-link>
                 </li>
                 <li class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3">
